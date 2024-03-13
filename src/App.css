@@ -1,3 +1,4 @@
+
 body {
   box-sizing: border-box;
   background-image: url("./assets/background.png");
@@ -44,7 +45,8 @@ main {
   border-radius: 3%;
   background-color: #848B5F ;
   gap: 20px;
-  height: 100vh;;
+  height: 100vh;
+  padding: 10px 0;
 }
 
 form {

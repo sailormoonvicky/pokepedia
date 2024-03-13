@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import backgroundImg from "./assets/background.png"
 
 import './App.css'
 
